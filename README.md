@@ -22,4 +22,16 @@ data can side load as inline script functions
 
 
 Works GREAT with VUE that can be native / liquid Shopify "legacy" Themes
-[Vue UIKIT Modules](https://github.com/uikit/uikit-site)
+[UIKIT Modules](https://github.com/uikit/uikit-site)
+
+Modules include Animation with Easing without need to install additional scripts
+[Animation/Parralax](https://getuikit.com/docs/parallax)
+
+Modules include responsive Media Containers that can load conditional loading logic and JSON LD data tracking
+[Media with Structured Data](https://getuikit.com/docs/video)
+
+Iframe / 100% Vertical Framing allows for import of Embedded API content without UI/UX disruption. Cross Browser script can be side loaded into the with data modifier
+
+Use with Svelte Context and Data Binding
+
+
