@@ -14,8 +14,6 @@ It is a GREAT resolve for wrapping legacy Bootstrap 3 Templates that do not Flex
 
 Also use if you have naming collision for Legacy Angular Name / Scoped UI conflicts
 
-[Audio/Media players](https://svelte.dev/tutorial/module-exports)
-
 [uk-flex](https://getuikit.com/docs/flex)
 [uk-grid](https://getuikit.com/docs/grid)
 
@@ -28,6 +26,10 @@ Works GREAT with VUE that can be native / liquid Shopify "legacy" Themes
 
 Modules include Animation with Easing without need to install additional scripts
 [Animation/Parralax](https://getuikit.com/docs/parallax)
+
+MEDIA
+[Audio/Media players](https://svelte.dev/tutorial/module-exports)
+Vanilla/JS Media Component with Playback UX
 
 Modules include responsive Media Containers that can load conditional loading logic and JSON LD data tracking
 [Media with Structured Data](https://getuikit.com/docs/video)
