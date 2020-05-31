@@ -28,6 +28,7 @@ Modules include Animation with Easing without need to install additional scripts
 [Animation/Parralax](https://getuikit.com/docs/parallax)
 
 MEDIA
+
 [Audio/Media players](https://svelte.dev/tutorial/module-exports)
 Vanilla/JS Media Component with Playback UX
 
